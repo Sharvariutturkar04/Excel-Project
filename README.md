@@ -65,3 +65,13 @@ Pivot Tables
 Pivot Charts
 
 Slicers & Filters
+
+
+## 📁 Repository Structure
+
+Skincare-Beauty-Excel-Dashboard/
+│
+├── Skincare & Beauty E-Commerce Analysis Dashboard.xlsx
+├── dashboard_preview.jpg
+└── README.md
+
