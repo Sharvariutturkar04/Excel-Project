@@ -69,7 +69,7 @@ Slicers & Filters
 
 ## 📁 Repository Structure
 
-Skincare-Beauty-Excel-Dashboard/
+Excel-Project/
 │
 ├── Skincare & Beauty E-Commerce Analysis Dashboard.xlsx
 ├── Skincare & Beauty E-Commerce Analysis Dashboard.jpg
