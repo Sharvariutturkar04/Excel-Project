@@ -38,6 +38,7 @@ Region / Location
 
 Payment Mode
 
+
 📊 Dashboard Insights
 
 Key insights available in the dashboard:
@@ -53,6 +54,7 @@ Key insights available in the dashboard:
 🛒 Customer Purchase Behavior
 
 📦 Category Performance Breakdown
+
 
 🛠️ Tools & Techniques Used
 
