@@ -72,6 +72,6 @@ Slicers & Filters
 Skincare-Beauty-Excel-Dashboard/
 │
 ├── Skincare & Beauty E-Commerce Analysis Dashboard.xlsx
-├── dashboard_preview.jpg
+├── Skincare & Beauty E-Commerce Analysis Dashboard.jpg
 └── README.md
 
